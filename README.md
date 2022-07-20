@@ -11,6 +11,7 @@
   
 * [Description](#description)
 * [Installation](#installation)
+* [Packages](#table-of-contents)
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
@@ -34,6 +35,14 @@
  - Run command "npm run seed" to seed items into database.
  - Run command "node server.js" to start server.
  - Access database via Insomnia Core or Postman.
+ 
+    ## [Packages](#table-of-contents)
+
+- Packages used in this project:
+  - dotenv
+  - express
+  - mysql2
+  - sequelize
   
     ## [Usage](#table-of-contents)
   
