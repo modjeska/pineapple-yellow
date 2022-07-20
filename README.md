@@ -7,8 +7,7 @@
 
 ![badge](https://img.shields.io/badge/license-mit-blue)
 
-<p align="center">
-    ## Table of Contents
+## Table of Contents
   
 * [Description](#description)
 * [Installation](#installation)
@@ -19,7 +18,7 @@
 * [Tests](#tests)
 * [Questions](#questions)
     
-    ## [Description](#table-of-contents)
+## [Description](#table-of-contents)
 
 - A fun tool to manage backend content of an e-commerce website.
 - Users will have the ability to create products, product tags, and product categories using the paths:
@@ -27,7 +26,7 @@
   - /api/products/(id number if accessing specific products)
   - /api/tags/(id number if accessing specific tags)
 
-    ## [Installation](#table-of-contents)
+## [Installation](#table-of-contents)
   <b>To install the program (node.js required):</b>
  - Clone the repo.
  - Run "npm i" to install packages.
@@ -37,7 +36,7 @@
  - Run command "node server.js" to start server.
  - Access database via Insomnia Core or Postman.
  
-    ## [Packages](#table-of-contents)
+## [Packages](#table-of-contents)
 
 - Packages used in this project:
   - dotenv
@@ -45,30 +44,28 @@
   - mysql2
   - sequelize
   
-    ## [Usage](#table-of-contents)
+## [Usage](#table-of-contents)
   
-    This program has a variety of uses that are not just limited to e-commerce related databases.
+   This program has a variety of uses that are not just limited to e-commerce related databases.
     
-    ## [License](#table-of-contents)
+## [License](#table-of-contents)
   
-    The application is covered under the following license:
+   The application is covered under the following license:
   
-    [mit](https://choosealicense.com/licenses/mit)
+   [mit](https://choosealicense.com/licenses/mit)
   
-    ## [Contributing](#table-of-contents)
+## [Contributing](#table-of-contents)
     
-    I will not be accepting contributions from third parties.
+   I will not be accepting contributions from third parties.
   
-    ## [Tests](#table-of-contents)
+## [Tests](#table-of-contents)
   
-    Users can test as they wish.
+   Users can test as they wish.
   
-    ## [Questions](#table-of-contents)
+## [Questions](#table-of-contents)
   
-    Please contact me using the following links:
+   Please contact me using the following links:
   
-    [GitHub](https://github.com/modjeska)
+   [GitHub](https://github.com/modjeska)
   
-    [Email: dantestargio@gmail.com](mailto:dantestargio@gmail.com)
-
-</p>
+   [Email: dantestargio@gmail.com](mailto:dantestargio@gmail.com)
