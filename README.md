@@ -6,8 +6,9 @@
 
 
 ![badge](https://img.shields.io/badge/license-mit-blue)
-  
-## Table of Contents
+
+<p align="center">
+    ## Table of Contents
   
 * [Description](#description)
 * [Installation](#installation)
@@ -69,3 +70,5 @@
     [GitHub](https://github.com/modjeska)
   
     [Email: dantestargio@gmail.com](mailto:dantestargio@gmail.com)
+
+</p>
