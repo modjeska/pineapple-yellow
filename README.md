@@ -26,7 +26,7 @@
   - /api/tags/(id number if accessing specific tags)
 
     ## [Installation](#table-of-contents)
-  To install the program (node.js required):
+  <b>To install the program (node.js required):</b>
  - Clone the repo.
  - Run "npm i" to install packages.
  - Create a database in mySQL
